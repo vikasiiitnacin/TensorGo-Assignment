@@ -12,6 +12,6 @@ Step 2:
 again open another terminal 
 1. go to the client folder
 2. npm install
-3. npm start
+3. npm start to open react app
 
 Note: Install express, axios if you did not install it in past.
